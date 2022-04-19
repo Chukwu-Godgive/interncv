@@ -1,0 +1,32 @@
+.navContainer {
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+    color: #000;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+    margin: 0 auto;
+    width: 1140px;
+}
+
+.navHeading {
+    color: #52a350;
+    font-weight: bolder;
+}
+
+.navContents {
+    display: flex;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.navContents li {
+    list-style: none;
+    margin: 10px;
+    text-transform: uppercase; 
+}
