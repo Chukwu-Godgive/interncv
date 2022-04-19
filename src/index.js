@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Styles from '../src/components/Styles.css';
+import '../src/components/Styles.css';
 import Navbar from '../src/components/Navbar/Navbar';
 import Biodata from '../src/components/Biodata/Biodata';
 import Education from '../src/components/Education/Education';
